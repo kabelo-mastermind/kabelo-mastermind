@@ -3,20 +3,20 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Portfolio Design</b>
-  - [Praciting Design & SEO in HTML5 & CSS3](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Design & SEO in HTML5 & CSS3](https://github.com/kabelo-mastermind/portfolio)
 - <b>Business Landing page</b>
-  - [UI/UX design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially Construction Business)</b></i>
+  - [UI/UX design](https://github.com/kabelo-mastermind/Thabone-construction) <b><i>(Potentially Construction Business)</b></i>
 - <b>User Registration/entry Form</b>
-  - [Database management and UX](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Database management and UX](https://github.com/kabelo-mastermind/user-registration-form)
 - <b>Python</b>
-  - [Cv/Resume Builder Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [General Ledger Builder Application (Datastructures and Algorithms Final application)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Cv/Resume Builder Application (Datastructures and Algorithms Demo)]
+  - [General Ledger Builder Application (Datastructures and Algorithms Final application)]
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="KabeloNkoane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="KabeloNkoane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KabeloNkoane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/D_kaybee
 [youtube]: https://www.youtube.com/channel/UC_32cK6i57wAz259TOfxqhQ
