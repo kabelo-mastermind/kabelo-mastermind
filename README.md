@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kabelo! <br/><a href="https://github.com/joshmadakor1">Web & multimedia</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Senior Student</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>💻💻 Software Development Projects:</h2>
 
 - <b>Portfolio Design</b>
   - [Praciting Design & SEO in HTML5 & CSS3](https://github.com/kabelo-mastermind/portfolio)
