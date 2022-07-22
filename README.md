@@ -9,7 +9,7 @@
 - <b>User Registration/entry Form</b>
   - [Database management and UX](https://github.com/kabelo-mastermind/user-registration-form)
 - <b>Python</b>
-  - [Cv/Resume Builder Application (Datastructures and Algorithms Demo)]
+  - [Cv/Resume Builder Application (Datastructures and Algorithms Demo)](https://github.com/kabelo-mastermind/Resume_Builder-App)
   - [General Ledger Builder Application (Datastructures and Algorithms Final application)]
 
 <h2> 👻 Connect with me:</h2>
