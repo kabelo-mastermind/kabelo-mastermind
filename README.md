@@ -3,7 +3,8 @@
 <h2>💻💻 Software Development Projects:</h2>
 <!--
 - <b>Portfolio Design</b>
-  - [Praciting Design & SEO in HTML5 & CSS3](https://github.com/kabelo-mastermind/portfolio)-->
+  - [Praciting Design & SEO in HTML5 & CSS3](https://github.com/kabelo-mastermind/portfolio) 
+-->
 - <b>Landing pages</b>
   - [Web development single page](https://github.com/kabelo-mastermind/Thabone-construction) <i>OR</i> [External link:](https://bit.ly/3EEiPUj) <b><i>(Potentially Construction Business)</b></i>
   - [Web development & UI/UX design single blog page](https://bit.ly/3TcD53A) <b><i>(Personal blog)</b></i>
