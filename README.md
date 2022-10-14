@@ -5,12 +5,12 @@
 - <b>Portfolio Design</b>
   - [Praciting Design & SEO in HTML5 & CSS3](https://github.com/kabelo-mastermind/portfolio)
 - <b>Landing pages</b>
-  - [Web development single page](https://github.com/kabelo-mastermind/Thabone-construction) <b><i>(Potentially Construction Business)</b></i>
+  - [Web development single page](https://github.com/kabelo-mastermind/Thabone-construction) <b><i>(External link:)</b></i> (https://bit.ly/3EEiPUj)<b><i>(Potentially Construction Business)</b></i>
   - [Web development & UI/UX design single blog page](https://bit.ly/3TcD53A) <b><i>(Personal blog)</b></i>
   - [Web development single portfolio page](https://bit.ly/3exlhl4) <b><i>(Demo Personal portfolio)</b></i>
-- <b>User Registration/entry Form</b>
-  - [Front-end & back-end development](https://github.com/kabelo-mastermind/user-registration-form)
-- <b>Python</b>
+- <b>Front-end & back-end development</b>
+  - [Registration Form](https://github.com/kabelo-mastermind/user-registration-form)<b><i>(User Registration/entry Form)</b></i>
+- <b>Python projects</b>
   - [Cv/Resume Builder Application (Datastructures and Algorithms Demo)](https://github.com/kabelo-mastermind/Resume_Builder-App)
   - [General Ledger Builder Application (Datastructures and Algorithms Final application)](https://github.com/kabelo-mastermind/General_Ledger-App-Builder)
 
