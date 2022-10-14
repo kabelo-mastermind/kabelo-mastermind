@@ -15,7 +15,7 @@
   - [Cv/Resume Builder Application (Datastructures and Algorithms Demo)](https://github.com/kabelo-mastermind/Resume_Builder-App)
   - [General Ledger Builder Application (Datastructures and Algorithms Final application)](https://github.com/kabelo-mastermind/General_Ledger-App-Builder)
   
-  <h3 align="center">A passionate frontend developer from India</h3>
+  <h3 align="center">A passionate Multimedia developer from South Africa</h3>
 
 
 
