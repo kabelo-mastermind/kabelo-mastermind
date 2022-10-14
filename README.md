@@ -9,7 +9,7 @@
   - [Web development & UI/UX design single blog page](https://bit.ly/3TcD53A) <b><i>(Personal blog)</b></i>
   - [Web development single portfolio page](https://bit.ly/3exlhl4) <b><i>(Demo Personal portfolio)</b></i>
 - <b>User Registration/entry Form</b>
-  - [Database management and UX](https://github.com/kabelo-mastermind/user-registration-form)
+  - [Front-end & back-end development](https://github.com/kabelo-mastermind/user-registration-form)
 - <b>Python</b>
   - [Cv/Resume Builder Application (Datastructures and Algorithms Demo)](https://github.com/kabelo-mastermind/Resume_Builder-App)
   - [General Ledger Builder Application (Datastructures and Algorithms Final application)](https://github.com/kabelo-mastermind/General_Ledger-App-Builder)
