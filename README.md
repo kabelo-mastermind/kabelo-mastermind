@@ -33,7 +33,7 @@
 [youtube]: https://www.youtube.com/channel/UC_32cK6i57wAz259TOfxqhQ
 [instagram]: https://www.instagram.com/davidkdevs/
 [linkedin]: https://www.linkedin.com/in/kabelo-david-nkoane
-[gmail]: kabelodavidnkoane@gmail.com
+[email]: kabelodavidnkoane@gmail.com
 
 <!--
 
