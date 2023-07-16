@@ -30,8 +30,8 @@
 [<img align="left" alt="KabeloNkoane | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/D_kaybee
-[youtube]: https://www.youtube.com/channel/UC_32cK6i57wAz259TOfxqhQ
-[instagram]: https://www.instagram.com/davidkdevs/
+[youtube]: https://www.youtube.com/@aiwebwizard-ly9dd/
+[facebook]: https://www.facebook.com/kayDkabelo/
 [linkedin]: https://www.linkedin.com/in/kabelo-david-nkoane
 :email: kabelodavidnkoane@gmail.com
 
