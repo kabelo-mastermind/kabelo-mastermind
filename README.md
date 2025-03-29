@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kabelo! <br/><a href="https://github.com/kabelo-mastermind">Software developer</a>, <a href="https://www.linkedin.com/in/kabelo-david-nkoane/">Graduate</h1>
+<h1>Hi, I'm Kabelo! <br/><a href="https://github.com/kabelo-mastermind">Software developer</a> <a href="https://www.linkedin.com/in/kabelo-david-nkoane/"></h1>
 
 <h2>💻💻 Software Development Projects(Repositories):</h2>
 
