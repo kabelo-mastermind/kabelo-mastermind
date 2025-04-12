@@ -1,50 +1,82 @@
-<h1>Hi, I'm Kabelo! <br/><a href="https://github.com/kabelo-mastermind">Software developer</a> <a href="https://www.linkedin.com/in/kabelo-david-nkoane/"></h1>
+<h1 align="center">👋 Hi, I'm Kabelo David Nkoane</h1>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | AWS Certified</h3>
 
-<h2>💻💻 Software Development Projects(Repositories):</h2>
+<p align="center">
+  🚀 Passionate about building high-quality web and mobile applications with a focus on scalability, performance, and user experience.<br/>
+  🎓 National Diploma in IT | AWS Cloud Foundations | ALX AI Essentials | ICEP Graduate Intern<br/>
+  📍 Based in Pretoria, South Africa | Languages: English, Sepedi, Ndebele, Zulu
+</p>
 
-- <b>Portfolio Design</b>
-  - [Practicing Design in HTML5 & CSS3](https://github.com/kabelo-mastermind/portfolio) 
+---
 
-- <b>Landing pages</b>
-  - [Web development single page](https://github.com/kabelo-mastermind/Thabone-construction) <i>OR</i> [External link:](https://bit.ly/3EEiPUj) <b><i>(Potentially Construction Business)</b></i>
-  - [Web development & UI/UX design single blog page](https://bit.ly/3TcD53A) <b><i>(Personal blog)</b></i>
-  - [Web development single portfolio page](https://bit.ly/3exlhl4) <b><i>(Demo Personal portfolio)</b></i>
-- <b>Front-end & back-end development</b>
-  - [Registration Form](https://github.com/kabelo-mastermind/user-registration-form)<b><i>(User Registration/entry Form)</b></i>
-- <b>Python projects</b>
-  - [Cv/Resume Builder Application (Datastructures and Algorithms Demo)](https://github.com/kabelo-mastermind/Resume_Builder-App)
-  - [General Ledger Builder Application (Datastructures and Algorithms Final application)](https://github.com/kabelo-mastermind/General_Ledger-App-Builder)
-  
-  <h3 align="center">A passionate Multimedia developer from South Africa</h3>
+### 👨‍💻 About Me
 
+- 🌐 Full-stack developer with 2+ years of experience in front-end & back-end development.
+- 💡 Adept with modern tech including **React.js**, **React Native**, **Node.js**, **MySQL**, and **AWS**.
+- 🛠️ Experienced in designing UI/UX for startups and freelance projects.
+- 🧠 Always learning! Recently focused on **cloud computing**, **AI**, and **prompt engineering**.
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### 📌 Projects & Specializations
 
+- 🧾 **Resume Builder App**  
+  Built with Python and data structures — an intuitive way to create CVs from form inputs.
 
-<h2> 👻 Connect with me:</h2>
+- 📊 **General Ledger App**  
+  A Python-based tool for handling finances and ledger entries with a clean interface.
 
-[<img align="left" alt="KabeloNkoane | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="KabeloNkoane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KabeloNkoane | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+- 🌐 **Responsive Landing Pages**  
+  Designed and developed HTML/CSS single-page apps for business and personal branding.
 
-[twitter]: https://twitter.com/D_kaybee
-[youtube]: https://www.youtube.com/@aiwebwizard-ly9dd/
-[facebook]: https://www.facebook.com/kayDkabelo/
-[linkedin]: https://www.linkedin.com/in/kabelo-david-nkoane
-:email: kabelodavidnkoane@gmail.com
-<h3>💻💻 More Software Development Projects(Repositories):💻💻</h3>
-<!--
+- 🖼️ **Portfolio & Blogs**  
+  UI/UX rich web pages showcasing creative and professional design skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
+</p>
+
+---
+
+### 🧑🏽‍🎓 Education & Certifications
+
+- 🎓 **National Diploma in Information Technology**, Tshwane University of Technology  
+  *(Specialization in Multimedia - UI/UX & Interactive Development)*
+
+- 📜 **Certifications**:
+  - AWS Academy Cloud Foundations
+  - ALX AI Essentials Certificate
+  - Prompt Engineering Certification
+
+---
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://twitter.com/D_kaybee"><img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22"/></a>
+  <a href="https://www.linkedin.com/in/kabelo-david-nkoane"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22"/></a>
+  <a href="https://www.facebook.com/kayDkabelo/"><img alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="22"/></a>
+  <a href="mailto:kabelodavidnkoane@gmail.com">📧 kabelodavidnkoane@gmail.com</a>
+</p>
+
+---
+
+### 🌐 Portfolio
+
+- 🔗 [My Personal Portfolio](https://portfoliokdnkoane.netlify.app/)
+- 🔗 [ICEP Projects](https://www.linkedin.com/company/icep-project/posts/?feedView=all)
+
+---
+
