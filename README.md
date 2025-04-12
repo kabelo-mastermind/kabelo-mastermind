@@ -1,82 +1,71 @@
-<h1 align="center">👋 Hi, I'm Kabelo David Nkoane</h1>
-<h3 align="center">Full-Stack Developer | UI/UX Designer | AWS Certified</h3>
+<h1 align="center">Hi, I'm Kabelo! 👋</h1>
+<h3 align="center">Full-Stack Developer | UI/UX Designer | Problem-Solver</h3>
 
 <p align="center">
-  🚀 Passionate about building high-quality web and mobile applications with a focus on scalability, performance, and user experience.<br/>
-  🎓 National Diploma in IT | AWS Cloud Foundations | ALX AI Essentials | ICEP Graduate Intern<br/>
-  📍 Based in Pretoria, South Africa | Languages: English, Sepedi, Ndebele, Zulu
+  Passionate about building scalable web and mobile applications, integrating creative UI/UX designs, and delivering high-quality software solutions.
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌐 Full-stack developer with 2+ years of experience in front-end & back-end development.
-- 💡 Adept with modern tech including **React.js**, **React Native**, **Node.js**, **MySQL**, and **AWS**.
-- 🛠️ Experienced in designing UI/UX for startups and freelance projects.
-- 🧠 Always learning! Recently focused on **cloud computing**, **AI**, and **prompt engineering**.
-
----
-
-### 📌 Projects & Specializations
-
-- 🧾 **Resume Builder App**  
-  Built with Python and data structures — an intuitive way to create CVs from form inputs.
-
-- 📊 **General Ledger App**  
-  A Python-based tool for handling finances and ledger entries with a clean interface.
-
-- 🌐 **Responsive Landing Pages**  
-  Designed and developed HTML/CSS single-page apps for business and personal branding.
-
-- 🖼️ **Portfolio & Blogs**  
-  UI/UX rich web pages showcasing creative and professional design skills.
+### 🛠 About Me
+- 🎓 **Education**: National Diploma in IT (Multimedia), Tshwane University of Technology  
+  Specialization: Integrating UI/UX design with interactive technologies  
+- 📜 **Certifications**:  
+  - AWS Academy Cloud Foundations  
+  - ALX AI Essentials Certificate  
+  - Prompt Engineering Certification  
+- 🌍 **Languages**: English, Sepedi, Ndebele, Zulu  
+- 💼 **Experience**:  
+  - Developed a ride-hailing app and various freelance projects.  
+  - Hands-on experience with React.js, React Native, Node.js, MySQL, AWS (ECS, Amplify, S3), and Google Cloud.  
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Software Development Highlights
 
+#### **Front-End Development**
+- Expertise in creating responsive UIs using **React.js**, HTML5, CSS3, and JavaScript.  
+- Designed landing pages and portfolio websites with a focus on user experience.
+
+#### **Back-End Development**
+- Skilled in developing RESTful APIs using **Node.js**.  
+- Proficient in managing databases with **MySQL** for scalable applications.
+
+#### **Python Projects**
+- Built a CV/Resume Builder Application showcasing data structures and algorithms.  
+- Developed a General Ledger Builder Application as a final project.
+
+#### **UI/UX Design**
+- Experienced in wireframing, prototyping, and creating user-centered designs.  
+- Enhanced brand engagement through digital strategies and visual content creation.
+
+---
+
+### 🛠 Tech Stack
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="Adobe XD" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity3D" width="40" height="40"/>
 </p>
 
 ---
 
-### 🧑🏽‍🎓 Education & Certifications
-
-- 🎓 **National Diploma in Information Technology**, Tshwane University of Technology  
-  *(Specialization in Multimedia - UI/UX & Interactive Development)*
-
-- 📜 **Certifications**:
-  - AWS Academy Cloud Foundations
-  - ALX AI Essentials Certificate
-  - Prompt Engineering Certification
-
----
-
-### 🤝 Connect With Me
-
-<p>
-  <a href="https://twitter.com/D_kaybee"><img alt="Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22"/></a>
-  <a href="https://www.linkedin.com/in/kabelo-david-nkoane"><img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22"/></a>
-  <a href="https://www.facebook.com/kayDkabelo/"><img alt="Facebook" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" width="22"/></a>
-  <a href="mailto:kabelodavidnkoane@gmail.com">📧 kabelodavidnkoane@gmail.com</a>
+### 📬 Connect With Me
+<p align="left">
+  <a href="https://twitter.com/D_kaybee"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" width="22px"/></a>
+  <a href="https://www.linkedin.com/in/kabelo-david-nkoane"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="22px"/></a>
+  <a href="https://www.facebook.com/kayDkabelo/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Facebook" width="22px"/></a>
 </p>
 
----
-
-### 🌐 Portfolio
-
-- 🔗 [My Personal Portfolio](https://portfoliokdnkoane.netlify.app/)
-- 🔗 [ICEP Projects](https://www.linkedin.com/company/icep-project/posts/?feedView=all)
+📧 Email: kabelodavidnkoane@gmail.com  
 
 ---
 
+### 🌟 Fun Fact
+I thrive on solving complex problems and enjoy collaborating with cross-functional teams to bring ideas to life!
